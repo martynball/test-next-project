@@ -1,0 +1,1 @@
+export default async function getClasses() {    return require('../../data/classes.json');}
